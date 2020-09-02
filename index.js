@@ -17,7 +17,7 @@ app.get('/', function(req, res) {
  respuesta = {
   error: true,
   codigo: 200,
-  mensaje: 'Punto de inicio 22'
+  mensaje: 'Punto de inicio 33'
  };
  res.send(respuesta);
 });
